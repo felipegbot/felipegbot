@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on vende-moda, as a Software Developer, using Vite, React, React Native, Node, NestJs and TypeORM.<br>🌱Currently learning about Kubernetes and Azure<br>⚡ I love games, music, and learn something new it's my passion.
+🔭 Currently working on sandwiche, as a Software Developer.<br>🌱Currently learning about Kubernetes and AWS<br>⚡ I love games, music, and learn something new it's my passion.
 
 
 ## 🌐 Socials:
